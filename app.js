@@ -1,4 +1,4 @@
-let number = 123456789;
+let number = 123456;
 
 // Initializing the result variable 
 let result = 0;
