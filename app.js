@@ -13,3 +13,4 @@ while(number>0){
     number = Math.floor(number/10);
 }
 console.log("Reversed number is : " + result)
+console.log("welcome");
